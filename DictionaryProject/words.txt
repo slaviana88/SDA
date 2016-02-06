@@ -1,0 +1,4 @@
+algorithm :: An algorithm is a procedure or formula for solving a problem. A computer program can be viewed as an elaborate algorithm. In mathematics and computer science, an algorithm usually means a small procedure that solves a recurrent problem.
+min :: minimum
+max :: maximum
+api :: application interface
